@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='ninwavelets',
     version='0.0.2',
-    install_requires=['scipy', 'numpy', 'cupy'],
+    install_requires=['scipy', 'numpy'],
     package_dir={'ninwavelets': 'ninwavelets'},
     packages=find_packages('ninwavelets'),
     description='Wavelets package',
