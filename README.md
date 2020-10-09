@@ -1,5 +1,5 @@
 # NinWavelets
-This is a python package for analystic wavelet transform originally by Hiroki-Maedi for EEG Data.
+This is a python package for analystic wavelet transform originally by Hiroki-Maeda for EEG Data.
 Modified to handle seismic data for attribute in Direct Hydrocarbon indicator based on :
 
 Identification of Sandstone Reservoir Saturated by Oil Using Low Frequency Analysis with base on CWT and AVO Analysis
